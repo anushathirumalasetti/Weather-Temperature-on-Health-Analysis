@@ -15,7 +15,6 @@ The analysis focuses on how **temperature, humidity, wind speed, and dew point**
 - **Dataset 2 (Kaggle):** Patient health dataset (heart rate, body temperature, blood pressure, age, blood type, etc.)
 - The final dataset was created by **merging both datasets** on a shared **Date/Time** field.
 
-> Note: Kaggle dataset links are not included here because your exact Kaggle URLs were not provided in this repo. Add them under this section once available.
 
 ## Project Workflow
 1. **Data Cleaning & Preparation**
