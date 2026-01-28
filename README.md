@@ -54,3 +54,6 @@ The analysis focuses on how **temperature, humidity, wind speed, and dew point**
 ├── merged_health_weather_final1.pbix       # Power BI dashboard file
 ├── Weather Temperature health final ppt.pptx  # Project presentation (optional)
 └── README.md
+## Preview
+<img width="1337" height="747" alt="image" src="https://github.com/user-attachments/assets/f2c120fd-61f4-49b9-8538-6648a69df730" />
+
