@@ -1,5 +1,7 @@
 # Weather-Temperature-on-Health-Analysis
 
+
+
 ## Overview
 This portfolio project explores the relationship between **weather conditions** and **human health metrics**. Using two Kaggle datasets (weather + patient health records), I merged them using a common **Date/Time** attribute and built an interactive **Power BI dashboard** to identify trends and correlations between environmental factors and vital signs.
 
@@ -46,6 +48,7 @@ The analysis focuses on how **temperature, humidity, wind speed, and dew point**
 - **Power BI Desktop** (Data model + Dashboard)
 - **CSV dataset preparation**
 - Optional: Excel / Power Query for cleanup steps (depending on workflow)
+- <img width="1337" height="747" alt="image" src="https://github.com/user-attachments/assets/5cddbe1a-3a8c-4244-a866-bb6f2141216c" />
 
 ## Repository Contents
 ```text
@@ -54,6 +57,4 @@ The analysis focuses on how **temperature, humidity, wind speed, and dew point**
 ├── merged_health_weather_final1.pbix       # Power BI dashboard file
 ├── Weather Temperature health final ppt.pptx  # Project presentation (optional)
 └── README.md
-## Preview
-<img width="1337" height="747" alt="image" src="https://github.com/user-attachments/assets/aa956822-7292-4df9-8d83-d7472081ff43" />
 
