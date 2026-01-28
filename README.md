@@ -55,5 +55,5 @@ The analysis focuses on how **temperature, humidity, wind speed, and dew point**
 ├── Weather Temperature health final ppt.pptx  # Project presentation (optional)
 └── README.md
 ## Preview
-<img width="1337" height="747" alt="image" src="https://github.com/user-attachments/assets/f2c120fd-61f4-49b9-8538-6648a69df730" />
+<img width="1337" height="747" alt="image" src="https://github.com/user-attachments/assets/aa956822-7292-4df9-8d83-d7472081ff43" />
 
